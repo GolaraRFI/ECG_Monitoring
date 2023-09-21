@@ -1,6 +1,6 @@
 # ECG Monitoring with OpenCV
 
-![Screenshot (1106)](https://github.com/GolaraRFI/ECG_Monitoring/assets/80590542/978205f4-7012-4bea-b909-970c9cf60829)
+![ECG](https://github.com/GolaraRFI/ECG_Monitoring/assets/80590542/9862d4de-5ee0-4800-a01f-fac741a6cc96)
 
 ## Overview
 This project is a simple code implementation for monitoring ECG (Electrocardiogram) using Python and OpenCV. The main objectives of this project are as follows:
