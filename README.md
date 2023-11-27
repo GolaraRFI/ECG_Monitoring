@@ -19,4 +19,4 @@ This project is a simple code implementation for monitoring ECG (Electrocardiogr
 3. The code will process the video, calculate the ECG signal, and display the results.
 
 Feel free to modify and customize the code to suit your specific requirements.
-
+ 
