@@ -5,7 +5,7 @@
 ## Overview
 This project is a simple code implementation for monitoring ECG (Electrocardiogram) using Python and OpenCV. The main objectives of this project are as follows:
 
-1. Capture a video using the phone's camera.
+1. Capture a video using the phone's camera. 
 2. Process the video frame by frame using the OpenCV library.
 3. Calculate the mean value of all the pixels in each frame.
 4. Plot the ECG signal in real-time.
